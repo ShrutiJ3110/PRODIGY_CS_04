@@ -1,4 +1,4 @@
-# Keylogger with GUI
+# Basic Keylogger
 
 This project is a simple GUI-based keylogger built using Python and the `tkinter` and `pynput` libraries. The keylogger captures keystrokes, displays them in real-time, and provides options to save or clear the logged data.
 
