@@ -48,27 +48,27 @@ This project is a simple GUI-based keylogger built using Python and the `tkinter
    ```bash
    python keylogger.py
 
-# Requirements
+## Requirements
 
 - **Python 3.x**: Ensure Python is installed on your system.
 - **pynput Library**: Used to capture keyboard events.
 
-# Security Disclaimer
+## Security Disclaimer
 
 This keylogger is intended for educational purposes only. Unauthorized use of keyloggers may violate privacy laws and ethical standards. The author is not responsible for any misuse of this tool.
 
-# Future Improvements
+## Future Improvements
 
 - **Data Encryption**: Add encryption for saved logs.
 - **Access Control**: Implement password protection for access.
 - **Advanced Key Capture**: Handle edge cases for key combinations.
 
-# Contact Information
+## Contact Information
 
 - **Email**: shrutisjoshi3110@gmail.com
 - **LinkedIn**: [Shruti Joshi](https://www.linkedin.com/in/shruti-joshi)
 
-# Engage with Me
+## Engage with Me
 
 Feel free to:
 
